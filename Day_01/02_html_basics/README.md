@@ -1,11 +1,7 @@
-
-![GeneralAssemb.ly](../../img/icons/instr_agenda.png)
-
-
-##Lesson 01 - HTML Basics
+##Lesson 01 / Part 1 - HTML Basics
 
 
-###Learning Objectives
+###Learning Objectivesw
 
 
 *	Establish community in the classroom and create a safe space to ask questions and learn through making mistakes.
