@@ -8,6 +8,6 @@ There will be some students who find this week slow. But we want to make sure al
 
 Main Project: Wendy G Bite: 
 
-![](02_css_basics/starter_code/WendyBite_AboutMe.png)
+![](03_css_basics/starter_code/WendyBite_AboutMe.png)
 
-![](02_css_basics/starter_code/WendyBite_Resume.png)
+![](03_css_basics/starter_code/WendyBite_Resume.png)
