@@ -87,7 +87,7 @@ Remember to share the [starter_code](starter_code/) folder at the beginning of c
 | ------------- |:-------------|
 | __Topics__ | html tags| 
 | __Description__| Students add markup to a chocolate chip cookie recipe. This also serves as a time to practice using web dev tools (sublime, chrome, finder etc)|    
-| __Activity Type__| Exercise| 
+| __Activity Type__| Code Along | 
 
 
 ####Instructional Design Notes 

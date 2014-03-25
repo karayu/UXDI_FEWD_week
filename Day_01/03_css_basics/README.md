@@ -1,8 +1,4 @@
-
-![GeneralAssemb.ly](../../img/icons/instr_agenda.png)
-
-
-##Lesson 02 - CSS Basics
+##Lesson 01 / Part 2 - CSS Basics
 
 
 ###Learning Objectives
