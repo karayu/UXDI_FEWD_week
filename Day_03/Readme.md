@@ -1,11 +1,14 @@
 ![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
 
-###Week 8 - Forms
+###Week 7 - Day 3: Responsive Design
 
-This week students lean about FORMS. This week offers the possibility to take the course further. If your class is advanced you can discuss GET methods and local storage. 
+During Day 3 of Week 7, students will learn about responsive design. 
 
-Lesson 16 is less about forms and more about building in a To Do list app. This continues the theme of building in concert. Students build the entire app, from scratch after a class discussion about the features it should have. 
+__There is one daily project for Day 3.__
 
-![](15_form_basics/starter_code/application_form/screenshots/Screen Shot 2013-07-15 at 10.24.32 PM.png)
+__Day 3 Project:__ [Responsive Fashion Blog](08_workshop_responsive_fashion_blog/solution/fashion_blog_part2/index.html)
 
-No image for the to do list app.
+<br>
+
+![](08_workshop_responsive_fashion_blog/starter_code/fashion_blog_part2.png)
+

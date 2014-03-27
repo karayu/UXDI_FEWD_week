@@ -13,11 +13,6 @@
 | 180 min | Lab Session | Startup Match Maker [example](starter_code/startup_matchmaker/StartupMatchmaker.png) | Students build a site with little guidance on how to start. |
 
 
-###[Homework](../Homework/)
-
-*	Complete Startup Match Maker 
-*	Watch video about JS.
-
 ---
 
  
@@ -26,6 +21,7 @@
 
 
 ##[Startup Matchmaker](starter_code)
+See solution code [here](solution/startup_matchmaker_solution)
 
 ###Time: 160 min
 

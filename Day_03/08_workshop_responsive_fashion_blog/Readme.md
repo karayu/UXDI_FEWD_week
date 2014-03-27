@@ -1,4 +1,13 @@
-#Week 7 - Workshop 08: Responsive Fashion Blog 
+#Week 7 - Workshop 08: Responsive Fashion Blog
+
+
+###Schedule
+
+
+| Time | Topic| GA ICLs| Comments |
+| ------|:-------------|:-------------------|:----------------|
+|10 min| 'Div' Up the Content| | |
+|3 hours| Lab Time | [Responsive Fashion Blog](solution/fashion_blog_part2/index.html) | Students should use the following [png as an example](starter_code/fashion_blog_part2.png) of their responsive two-column fashion blog | 
 
 ![Exercise - Instructor](../../img/icons/instr_lab.png)
 

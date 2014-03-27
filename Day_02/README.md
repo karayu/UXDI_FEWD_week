@@ -6,10 +6,22 @@ Day 2 of Week 7 is about more complex CSS topics, including floats and positioni
 
 Today will also introduce forms and text input to students. 
 
-__Day 2 Main Project:__ Fashion Blog.
+__There are two daily projects for Day 2.__
+
+__Day 2 Mini Project:__ Fashion Blog.
 
 <br>
 
-![](04_form_basics/starter_code/Fashion_Blog.png)
+![](05_workshop_fashion_blog/starter_code/Fashion_Blog.png)
+
+</br>
+
+__Day 2 Final Project:__ Simple Marketing Site.
+
+<br>
+
+[Click here for the solution code](06_workshop_html_and_advanced_css_lab/solution/simple_marketing_site/index.html)
+
+![](06_workshop_html_and_advanced_css_lab/starter_code/thumbnail.png)
 
 </br>

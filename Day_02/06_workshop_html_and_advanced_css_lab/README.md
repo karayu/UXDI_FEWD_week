@@ -1,4 +1,4 @@
-##Week 7 - Day 2: HTML & Advanced CSS Lab
+##Week 7 - Workshop 06: HTML & Advanced CSS Lab
 
 
 ###Learning Objectives

@@ -12,14 +12,14 @@ __By the end of the week, students should achieve the following learning objecti
 
 ###Learning Objectives
 
-* Define key web development terminology, like front-end, back-end, HTML, CSS, JavaScript, jQuery, and Bootstrap.
-* 
+* Define and apply key front-end web development languages, like HTML, CSS, JavaScript.
+* Complete a number of projects, including a [responsive fashion blog](Day_03/08_workshop_responsive_fashion_blog/solution/fashion_blog_part2/index.html), [a simple marketing site](Day_02/06_workshop_html_and_advanced_css_lab/solution/simple_marketing_site/index.html), and a [complete responsive site from a design comp.](Day_04/10_workshop_startup_matchmaker/solution/startup_matchmaker_solution/index.html)
 
 ###Preparing to Teach
  
-We __highly recommend__ you begin preparing your lessons before you start teaching. You should start prepping to teach the materials 4 - 6 weeks prior to course launch. A good benchmark is to prepare the first 5 - 6 lessons before the course begins. 
+We __highly recommend__ you begin preparing your lessons before you start teaching. 
 
-During these preparation weeks you should: 
+When you prepare, you should: 
 
 *	Update slides for each lesson, so they match your style of teaching.
 
@@ -34,17 +34,15 @@ We've supplied a folder for each week and lesson. In these folders we've include
 
 |Materials | Description | How to Use It|
 |----|---------|---------------|
-| __README.md__| Topic break down and suggested schedule. | Use this to get a high level view of the week and each lesson. It is meant to help you prep for the course.|
-| __Slides__| Markdown file with slide content.| Customized the deck before sharing with students in pdf format (more on that during your on board). WE suggest using [reveal.js](https://github.com/hakimel/reveal.js) to present to the class . Keep the same folder structure so that image relative paths still work.|
+| __README.md__| Topic break down and suggested schedule. | Use this to get a high level view of  each lesson. It is meant to help you prep for the course.|
+| __Slides__| Markdown file with slide content.| Customized the deck before sharing with students in pdf format (more on that during your on board). We suggest using [reveal.js](https://github.com/hakimel/reveal.js) to present to the class . Keep the same folder structure so that image relative paths still work.|
 | __Code Along__| Code to be used by instructors to help demonstrate a concept.|Type slowly and explain the concepts while students follow along with code and type their notes. |
-| __instr_code_along_notes.md__| Notes from the curriculum team about how to use a particular code along.| As we gain feedback from instructors and students, we've become aware of student pain points for students. This document contains notes to help you deliver the best course.|
 | __Exercises__|Code examples to be completed without instructor guidance.| You should read the instructions and solution files. You must be able to further explain content to students.|
 | __Starter Code Folder__| This is a folder with all the starter code students need for that lesson.| You should share this folder with students before every lesson.|
 | __Solution Folder__| This is a folder with all solution code to code alongs and exercises| Share individual solution files as needed. Student should have code demo solutions before lab time to use as a reference.|
 
 
 ###How To Prepare For Each Lesson
-We will provide a __class page__ that you can host on our Githubfor organization. This is meant to be a one stop shop, for students to find all class tools and resources. 
 
 1.	Read the instructor agenda in the lesson folder.
 
@@ -72,20 +70,10 @@ We will provide a __class page__ that you can host on our Githubfor organization
 
 The slides are a skeletal deck and require your input! If there are slides you do not agree with then update them. If you want to introduce topics in a different order, then reorder them. 
 
-
-
-##MORE TERMINOLOGY
-
-|Term|Description|
-|---|---|
-|Course|Refers to all 20 classes which make up the FEWD curriculum|
-| __Lesson__ |One 3 hour session of the course. |
-| __In Class Lab (ICL)__|Exercise files that are to be used in class as examples and practice.|
-|[Final Project](Final_Project/final_project_requirements.md)|The personal project each student will submit and present. Share the project requirements as early as possible.|
 	
 
 ##QUESTIONS
 
-If you have any questions please send them to your local Producer or the UXDI Education Product Manager, [Andre Plaut](andre@generalassemb.ly)
+If you have any questions please send them to your local Producer or the UXDI Education Product Manager, [Andre Plaut](mailto:andre@generalassemb.ly)
 
 
