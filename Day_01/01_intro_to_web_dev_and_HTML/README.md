@@ -1,7 +1,7 @@
-##Lesson 01 / Part 1 - HTML Basics
+##Week 7 - Lesson 01: Introduction to Web Development & HTML
 
 
-###Learning Objectivesw
+###Learning Objectives
 
 
 *	Establish community in the classroom and create a safe space to ask questions and learn through making mistakes.
@@ -18,19 +18,19 @@
 ###Schedule
 
 
-| Time        | Topic| GA ICLs| Comments |
+| Time        | Topic| GA Resources | Comments |
 | ------------- |:-------------|:-------------------|:----------------|
+| 60 min |Introduction to Web Development| [!Lesson Deck!](!GOOGLE DRIVE LINK!)| INSERT COMMENT HERE|
+| 10 min | Setting Up Your Environment | [!Lesson Deck!](GOOGLE DRIVE LINK)| INSERT COMMENT HERE.|
 | 60 min |HTML Tags & Using Sublime| [GA Press Release]()| Basic site to demonstrate html files and tags. This is another opportunity to show students how to use sublime text. This will make sure everyone is up to speed and ready to move forward.|
-| 30 min |Lab Time | [Cookies Recipe]()<br> [Resume]() | Students add tags to a Cookie recipe and start to "markup" their resume. |
+| 30 min | Code Along | [Cookies Recipe]()<br> [Resume]() | Students add tags to a Cookie recipe and start to "markup" their resume. |
 
 
-###[Homework](../Homework/)
+###Resources
 
-Student facing homework document can be found in the Homework folder (link above). Give students at least one week to complete the homework.
-
-*	__Assignment__: Create a personal website with about me and resume pages.  
-*	__Reading__: The Guardian Blog What is front-end development?
 *	__Video__: How The Internet Works in 5 minutes [video](http://www.youtube.com/watch?v=7_LPdttKXPc)
+
+<br>
 
 ---
 
@@ -74,7 +74,7 @@ Note: Omit ordered list ```<ol>```, students will Google it during lab time.
 ---
  
 
-![Exercise - Instructor](../../img/icons/instr_lab.png)
+![Code Demo](../../img/icons/instr_code_along.png)
 
 Remember to share the [starter_code](starter_code/) folder at the beginning of class. Share code_along solutions before lab time so students have an example to reference. 
 
@@ -97,28 +97,3 @@ Remember to share the [starter_code](starter_code/) folder at the beginning of c
 *	Bonus: Students can Google and implement the image tag. We will cover image tags next lesson.
 
 
-##[My Resume](../Homework)
-
-Start Homework
-
-####Time: Remainder Of Class
-
-| | |
-| ------------- |:-------------|
-| __Topics__ | html tags, sublime text, gathering content| 
-| __Description__| Students start to write the content for their homework. |    
-|__Activity Type__| Exercise | 
-
-
-####Instructional Design Notes 
-
-*	If time permits, ask students to start homework assignment. First step should be to create the web site folder and the index.html file. Then write plain text for the content and add the markup last.
-
-Note: If you approach building a website differently, please teach students your way. The most important objectives is to give students a process in how to start.
-
----
-
-
-[![slides](../../img/icons/slides.png)](slides.md)
-
-click icon for slides.

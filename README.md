@@ -1,17 +1,23 @@
-![FEWD 2.0.0](img/icons/instructor_fewd_logo.png)
+##GETTING STARTED
+<br>
+Welcome to the UXDI Front-End Week Curriculum.  
 
+This repository contains all required materials for Week 7 of UXDI, Front-End Week. Week 7 is comprised of lectures, code alongs, and exercises. 
 
-##GETTING STARTED WITH CURRICULUM
+The following README document outlines how to use these materials.
+</br>
+<br>
 
-Welcome to the UXDI Front-End Week Curriculum v. 2.0.0. 
+__By the end of the week, students should achieve the following learning objectives__
 
-This repository contains all the materials GA supplies its Front-End UXDI instructors. 
+###Learning Objectives
 
-General Assembly's User Experience Design Immersive (UXDI) course is made up of 20 lessons that are 3 hours each. The first 10 lessons cover HTML/CSS/JS Basics and the following 10 cover how to build websites in concert. 
+* Define key web development terminology, like front-end, back-end, HTML, CSS, JavaScript, jQuery, and Bootstrap.
+* 
 
-###Before The Course Responsibilities
+###Preparing to Teach
  
-We __highly recommend__ you begin preparing your lessons before the course starts. You should start prepping to teach the materials 4 - 6 weeks prior to course launch. A good benchmark is to prepare the first 5 - 6 lessons before the course begins. 
+We __highly recommend__ you begin preparing your lessons before you start teaching. You should start prepping to teach the materials 4 - 6 weeks prior to course launch. A good benchmark is to prepare the first 5 - 6 lessons before the course begins. 
 
 During these preparation weeks you should: 
 
@@ -67,16 +73,6 @@ We will provide a __class page__ that you can host on our Githubfor organization
 The slides are a skeletal deck and require your input! If there are slides you do not agree with then update them. If you want to introduce topics in a different order, then reorder them. 
 
 
-##GRADING
-
-In order to pass this course General Assembly students must:
-
-*	Complete and submit 80% of all course homework assignments. 
-
-	*	Students will receive feedback from instructors on their assignments within 2 - 4 days. 
-
-*	Complete and submit the course [final project](Final_Project/final_project_requirements.md) including all milestones.
-
 
 ##MORE TERMINOLOGY
 
@@ -90,6 +86,6 @@ In order to pass this course General Assembly students must:
 
 ##QUESTIONS
 
-If you have any questions please send them to your Education Product Manager, [Jessica Skeete](jessicat@generalassemb.ly)
+If you have any questions please send them to your local Producer or the UXDI Education Product Manager, [Andre Plaut](andre@generalassemb.ly)
 
 
