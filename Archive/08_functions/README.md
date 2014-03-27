@@ -1,15 +1,11 @@
-![GeneralAssemb.ly](../../img/icons/instr_agenda.png)
-
-##Lesson 08 - Functions 
-
+##Week 7 - Lesson 8: jQuery & Responsive
 
 ###Learning Objectives
 
 *	Describe arguments as they relate to functions.
 *	Predict values returned by a given function.
-*	Differentiate between named and anonymous functions
+*	Utilize jQuery tree traversal techniques to access and manipulate DOM elements.*	Utilize jQuery Docs to apply functions
 
-Note: When we tested this lesson
 
 ###Schedule
 
@@ -17,13 +13,10 @@ Note: When we tested this lesson
 | Time        | Topic| GA ICLs| Comments |
 | ------------- |:-------------|:-------------------|:----------------|
 | 60 min | Function (Arguments & Returns)| [Cash Register]() |  |
-| 30 min | Anonymous Function  | [Cash Register]() |  |
-| 90 min | Lab Time | [Rock Paper Scissors]() |  |
+| 30 min | Intro To jQuery | | What is jQuery and how to add it to your project. |
+| 60 min | jQuery Documentation| [Color Switcher]()|  |
 
 
-###[Homework](../Homework/)
-
-*	Complete Rock Paper Scissors.
 
 ---
 
@@ -50,27 +43,25 @@ There is [starter code](starter_code/) for this code along.
 *	Refactor the exercise to use anonymous functions 
 	*	Anonymous functions are included because we want students to be able to understand jQuery documentation.	
 
+
 ---
 
-![Exercise - Instructor](../../img/icons/instr_lab.png)
 
+![Code Demo](../../img/icons/instr_code_along.png)
 
-##[Rock Paper Scissors](http://codepen.io/nevan/pen/zChrG)
+##[Color Switcher](http://codepen.io/nevan/pen/dmklG)
 
-There is [starter code](starter_code/) for this code along.
-
-###Time: 90 min
+###Time: 30 min
 
 | | |
 | ------------- |:-------------|
-| __Topics__ | functions, arguments, returns, anonymous functions  | 
-| __Description__| Students practice JS skills and code a rock paper scissors game.|   
-| __Activity Type__| Pairs| 
+| __Topics__ | jQuery | 
+| __Description__| Refactor Color Switcher to use jQuery|   
+| __Activity Type__| Code Along | 
  
- 
+
 ####Instructional Design Notes
 
-*	Demo the obfuscated code. Have a brief conversation about how to start.
-*	This is a good time to introduce pair programming. 
+*	Refactor Color Switcher to use jQuery.
+*	Show students how to use jQuery documentation. This will help them practice last lesson on functions.
 
----

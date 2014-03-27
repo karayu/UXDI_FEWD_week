@@ -1,4 +1,4 @@
-##Week 7 - Lesson 05 - JavaScript
+##Week 7 - Lesson 09 - JavaScript
 
 
 ###Learning Objectives
@@ -19,6 +19,7 @@
 | 10 min | Introduction to JS | [What JS Can Do]() | A discussion about JS functionality. Based on the JS video students watched for [homework](https://generalassemb.ly/online/videos/what-can-you-do-with-javascript/cinema?chapter=3).|
 | 60 min | Reading JS | [Color Switcher](http://codepen.io/nevan/pen/kBItz) <br> |  |
 | 30 min | Activity | [Traffic Light](http://codepen.io/nevan/pen/shtLA)  <br> | Allow students to solve this on their own, and after 20 minutes, work through the solution with them as a class.  |
+| 45 min | JS Basics | [JS Basics]() |  Detailed breakdown of what was read in lesson 6. We also change color switcher so that we are keeping with separation of concerns best practices.|
 
 
 ###[Homework](../Homework/)
@@ -132,6 +133,37 @@ repeat forever,
 *	Share the Codepen link. 
 
 *	The yellow button changes the bulb to purple and the green light does not work. Students are to change the code so that the traffic light works correctly.  	
+
+---
+
+![Code Demo](../../img/icons/instr_code_along.png)
+
+## [JS Basics](http://codepen.io/nevan/pen/kBItz)
+
+###Time: 30 min
+
+| | |
+| ------------- |:-------------|
+| __Topics__ | getElementById, click event, adding a class, separation of concerns | 
+| __Description__| This is a more detailed explanation of JavaScript then the previous class. |   
+| __Activity Type__| Code Along | 
+ 
+ 
+####Instructional Design Notes
+
+*	We just taught students how to read JS code. This code along is a slight variation on the color scheme switcher from last week. We want to call students attention to separation of concerns and why its better to change the class instead of css directly in JavaScript. 
+
+*	The goal of this exercise is that it becomes a reference when students want to use a click event and make changes to the DOM through JS.
+
+
+*	This is the opportunity to discuss syntax (semicolon, brackets rules, etc.) and also further break down how the program is read. 
+
+*	Spend time explaining the click function and how the program waits for the button to be clicked before anything happens. 
+
+*	This is also a good point to describe functions. More on functions next class but this is an opportunity to start the conversation.
+
+
+---
 
 
 [![slides](../../img/icons/slides.png)](slides.md)

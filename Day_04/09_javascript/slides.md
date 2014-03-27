@@ -1,6 +1,4 @@
-![GeneralAssemb.ly](../../img/icons/FEWD_Logo.png)
-
-#FEWD - Intro Programming
+#JavaScript
 
 ###Instructor Name
 
@@ -75,12 +73,6 @@ This semester we will learn what these keywords and structures are and how they 
 ![GeneralAssemb.ly](../../img/icons/code_along.png)
 ##Thermostat
 
----
-
-
-
-![GeneralAssemb.ly](../../img/icons/exercise_icon_md.png)
-##Rock Paper Scissors
 
 ---
 
@@ -100,3 +92,27 @@ This semester we will learn what these keywords and structures are and how they 
 ##Traffic Light
 
 ---
+
+##JS Basics Syntax
+
+__Syntax:__ Spelling and grammar rules of a programming language. 
+
+
+Note:
+Like with any language, there are formal rules around how to write it. This is the syntax.
+
+
+---
+
+##JS Syntax
+
+*	Semicolon
+*	Brackets
+*	Parentheses
+*	Quotation Marks
+
+---
+
+![GeneralAssemb.ly](../../img/icons/code_along.png)
+##JS Basics
+
