@@ -15,17 +15,11 @@
 | Time        | Topic| GA ICLs| Comments |
 | ------------- |:-------------|:-------------------|:----------------|
 | 15 min |Review |[What Tag Is It?]() |Review exercise. Students will look up ```<nav> <img> and <hr>```. |
-| 20 min | More HTML Tags| Wendy G. Bite [About Me]() |Use this time to review answers and introduce img and nav tags in addition to the html document structure.  |
-| 10 min | Paths | Wendy G. Bite [About Me]() | Demonstrate how to add links to other html pages and img tag.|
-| 90 min |Intro To CSS |Wendy G. Bite [About Me]()| This includes intro to colors and fonts.|
-| 30 min |Lab Time | Wendy G. Bite [Resume]()|Students create and style Wendy G. Bite's resume. When complete students should start homework.|
+| 20 min | More HTML Tags| Wendy G. Bite [About Me](solution/Wendy_Bite_Solution) |Use this time to review answers and introduce img and nav tags in addition to the html document structure.  |
+| 10 min | Paths | Wendy G. Bite [About Me](solution/Wendy_Bite_Solution) | Demonstrate how to add links to other html pages and img tag.|
+| 90 min |Intro To CSS |Wendy G. Bite [About Me](solution/Wendy_Bite_Solution)| This includes intro to colors and fonts.|
+| 30 min |Lab Time | Wendy G. Bite [Resume](solution/Wendy_Bite_Solution)|Students create and style Wendy G. Bite's resume. When complete students should start homework.|
 
-
-###Homework
-
-*	__Assignment__: Create a personal website with about me and resume pages.  
-*	__Reading__: The Guardian Blog What is front-end development?
-*	__Video__: DON’T FEAR the INTERNET [video](http://www.dontfeartheinternet.com/the-basics/not-tubes)
 
 ---
 
@@ -111,6 +105,27 @@ Remember to share the [starter_code](starter_code/) folder at the beginning of c
 ####Instructional Design Notes 
 
 *	Point out that when they add the link tag to reference style.css, the styling from the code along will be applied to their page.
+
+---
+
+##[My Resume](../Homework)
+
+Optional Lab Exercise 
+
+####Time: Remainder Of Class
+
+| | |
+| ------------- |:-------------|
+| __Topics__ | html tags, sublime text, gathering content| 
+| __Description__| Students start to write the content for their homework. |    
+|__Activity Type__| Exercise | 
+
+
+####Instructional Design Notes 
+
+*	If time permits, ask students to start homework assignment. First step should be to create the web site folder and the index.html file. Then write plain text for the content and add the markup last.
+
+Note: If you approach building a website differently, please teach students your way. The most important objectives is to give students a process in how to start.
 
 ---
 
