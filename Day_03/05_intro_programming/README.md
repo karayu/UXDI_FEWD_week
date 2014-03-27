@@ -1,4 +1,4 @@
-##Week 7 - Lesson 05 - JavaScript & Responsive
+##Week 7 - Lesson 05 - JavaScript
 
 
 ###Learning Objectives
@@ -13,12 +13,12 @@
 ###Schedule
 
 
-| Time        | Topic| GA ICLs| Comments |
+| Time        | Topic| GA Resources| Comments |
 | ------------- |:-------------|:-------------------|:----------------|
 | 30 min | Introduction to Programming| [Thermostat]() |  |
 | 10 min | Introduction to JS | [What JS Can Do]() | A discussion about JS functionality. Based on the JS video students watched for [homework](https://generalassemb.ly/online/videos/what-can-you-do-with-javascript/cinema?chapter=3).|
-| 60 min | Reading JS | [Color Switcher]() <br> |  |
-| 30 min | Lab Time| [Traffic Light]()  <br> |  |
+| 60 min | Reading JS | [Color Switcher](http://codepen.io/nevan/pen/kBItz) <br> |  |
+| 30 min | Activity | [Traffic Light](http://codepen.io/nevan/pen/shtLA)  <br> | Allow students to solve this on their own, and after 20 minutes, work through the solution with them as a class.  |
 
 
 ###[Homework](../Homework/)

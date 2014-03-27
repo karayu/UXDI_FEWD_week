@@ -1,8 +1,4 @@
-
-![GeneralAssemb.ly](../../img/icons/instr_agenda.png)
-
-
-##Lesson 05 - Lab Session
+##Week 7 - Final Workshop
 
 
 ###Learning Objectives
@@ -12,9 +8,9 @@
 ###Schedule
 
 
-| Time        | Topic| GA ICLs| Comments |
+| Time        | Topic| GA Resources| Comments |
 | ------------- |:-------------|:-------------------|:----------------|
-| 180 min | Lab Session | Startup Match Maker | Students build a site with little guidance on how to start. |
+| 180 min | Lab Session | Startup Match Maker [example](starter_code/startup_matchmaker/StartupMatchmaker.png) | Students build a site with little guidance on how to start. |
 
 
 ###[Homework](../Homework/)
@@ -42,7 +38,7 @@
  
 ####Instructional Design Notes
 
-*	This is an ambitious site to build in week 3. The goal is to encourage students to divide and conquer. We want to teach them how to look at a png file determine the sections that are needed and then code. 
+*	This is an ambitious site to build at the end of the week. The goal is to encourage students to divide and conquer. We want to teach them how to look at a [png file](starter_code/startup_matchmaker/StartupMatchmaker.png) determine the sections that are needed and then code. 
 
 *	Ask groups to plan and determine where they should start. They should follow the same process you taught them. 
 
