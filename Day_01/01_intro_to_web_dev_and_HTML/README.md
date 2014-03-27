@@ -20,8 +20,8 @@
 
 | Time        | Topic| GA Resources | Comments |
 | ------------- |:-------------|:-------------------|:----------------|
-| 60 min |Introduction to Web Development| [!Lesson Deck!](!GOOGLE DRIVE LINK!)| INSERT COMMENT HERE|
-| 10 min | Setting Up Your Environment | [!Lesson Deck!](GOOGLE DRIVE LINK)| INSERT COMMENT HERE.|
+| 60 min |Introduction to Web Development| [Lesson Deck](https://drive.google.com/a/generalassemb.ly/file/d/0B9Aus64Bu_fOMm1yb2g0TFdzcVU/edit?usp=sharing)| This section relies on a Keynote 2013 deck located in the UXDI Google Drive directory. A Keynote 2009 version is also available in the same folder.|
+| 10 min | Setting Up Your Environment | [Lesson Deck](https://drive.google.com/a/generalassemb.ly/file/d/0B9Aus64Bu_fOMm1yb2g0TFdzcVU/edit?usp=sharing)| Make sure to guide students through this process, and walk around the classroom to ensure that every student has successfully set up their environment. |
 | 60 min |HTML Tags & Using Sublime| [GA Press Release](solution/ga_press_release)| Basic site to demonstrate html files and tags. This is another opportunity to show students how to use sublime text. This will make sure everyone is up to speed and ready to move forward.|
 | 30 min | Code Along | [Cookies Recipe](solution/cookie_recipe) | Students add tags to a Cookie recipe and start to "markup" their resume. |
 

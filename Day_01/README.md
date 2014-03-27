@@ -1,13 +1,11 @@
 ![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
 
-##Week 1 - The Basics
+##Week 7 - Day 1 - Web Development Fundamentals, HTML, and CSS
 
-This week is about leveling the playing field. 
+Day 1 of Week 7 is all about introducing students to key terms and concepts related to front-end web development, and getting their feet wet with HTML and CSS.   
 
-There will be some students who find this week slow. But we want to make sure all students are at a basic level before moving on. This will make the rest of the class go smoothly. Take this time to make sure students understand how sublime text (or any other text editor you choose) and chrome are working together.
+Main Project for Day 1: Wendy G Bite: 
 
-Main Project: Wendy G Bite: 
+![](02_html_css_going_further/starter_code/WendyBite_AboutMe.png)
 
-![](03_css_basics/starter_code/WendyBite_AboutMe.png)
-
-![](03_css_basics/starter_code/WendyBite_Resume.png)
+![](02_html_css_going_further/starter_code/WendyBite_Resume.png)
