@@ -1,7 +1,4 @@
-![GeneralAssemb.ly](../../img/icons/instr_agenda.png)
-
-
-##Lesson 06 - Introduction To Programming
+##Week 7 - Lesson 05 - JavaScript & Responsive
 
 
 ###Learning Objectives
@@ -18,7 +15,7 @@
 
 | Time        | Topic| GA ICLs| Comments |
 | ------------- |:-------------|:-------------------|:----------------|
-| 75 min | Introduction to Programming| [Thermostat]() <br> [Rock Paper Scissors]() |  |
+| 30 min | Introduction to Programming| [Thermostat]() |  |
 | 10 min | Introduction to JS | [What JS Can Do]() | A discussion about JS functionality. Based on the JS video students watched for [homework](https://generalassemb.ly/online/videos/what-can-you-do-with-javascript/cinema?chapter=3).|
 | 60 min | Reading JS | [Color Switcher]() <br> |  |
 | 30 min | Lab Time| [Traffic Light]()  <br> |  |
@@ -115,26 +112,6 @@ repeat forever,
  
 
 ![Exercise - Instructor](../../img/icons/instr_lab.png)
-
-##Rock Paper Scissors
-
-Materials: Post its.
-
-####Time: 30 min
-
-| | |
-| ------------- |:-------------|
-| __Topics__ | pseudo code, programmatic thinking | 
-| __Description__| Now we let the students go on their own. They will write pseudo code on their own to program a computer to play the game rock paper scissors.  |    
-| __Activity Type__| group of 3 - 4 | 
-
-
-####Instructional Design Notes 
-
-*	Encourage students to use the thermostat syntax for clues. 
-*	They should write each line of instruction onto a post it and start to put the post its in order to form the program.
-*	If time permits, ask the students to walk around and view what other groups came up with.
-*	Again there is no solution to this exercise. This exercise is to get students thinking programatically. 
 
 
 ##[Traffic Light](http://codepen.io/nevan/pen/shtLA)
