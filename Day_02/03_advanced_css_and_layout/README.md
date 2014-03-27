@@ -1,7 +1,4 @@
-![GeneralAssemb.ly](../../img/icons/instr_agenda.png)
-
-
-##Lesson 03 - Advanced CSS
+##Week 7 - Lesson 3: Advanced CSS & Layout
 
 
 ###Learning Objectives
@@ -11,6 +8,13 @@
 *	Differentiate between classes vs IDs and apply best practices when implementing.
 
 *	Select nested elements to apply styling. 
+*	Draw the DOM Tree for web pages containing sections ```<div><section>```.
+
+*	Apply header, footer, sidebar, and multi-column layouts to develop a web page.
+
+*	Experiment and predict effects of floats and clearing CSS positioning.
+
+*	Describe the use of Normalize and reset.css files.
 
 
 ###Schedule
@@ -19,16 +23,12 @@
 | Time        | Topic| GA ICLs| Comments |
 | ------------- |:-------------|:-------------------|:----------------|
 | 15 min | Review| | Review topics students may be struggling with. We found that student need more practice with absolute versus relative paths.|
-| 10 min | HTML Template| [template]()| |
 | 50 min | Box Model| [Box Model]() |  |
 | 20 min | Nested Selectors | [Nested Selectors]() |  |
-| 10 min | Getting Started| [How To Start]()| Show students how to tackle the Fashion blog. How to start. |
-| 60 min | Lab Time| [Fashion Blog ]()|  |
+| 30 min| Classes, IDs, Divs| [Classes_Ids]()| |
+| 20 min |HTML5 structural elements | [Floating Sections]() | Some basic HTML5 structural elements (header, aside, footer)|
+| 50 min | Floats| [Floating Sections]() | We use the structural elements and float them on th page. |
 
-
-###[Homework](../Homework/)
-
-*	Complete the [fashion blog](starter_code/Fashion_Blog.png) site for homework. 
 
 ---
 
@@ -79,62 +79,54 @@ Students often struggle with selecting elements on the page that are nested betw
 
 *	You can draw a DOM tree on the white board to help with understanding.
 
+![Code Demo](../../img/icons/instr_code_along.png)
 
-##How To Start
+## [Classes_IDs](http://codepen.io/nevan/pen/JnfEd)
 
-###Time: 15 min
+
+###Time: 30 min
 
 | | |
 | ------------- |:-------------|
-| __Topics__ | starting a project | 
-| __Description__| Guide students in taking the first steps to building the Fashion blog. |   
-| __Activity Type__| Code along.| 
+| __Topics__ | divs, classes, ids | 
+| __Description__| sandbox type activity to show how and when to use Classes and Is |   
+| __Activity Type__| code along| 
  
- 
+
 ####Instructional Design Notes
 
-Students always struggle with how to start. They spend the first 30 min of lab time, pondering what to do first. Help them take those first steps. 
-
-*	If you were given the fashion blog site part 1, what is the first thing  you would do. 
-
-*	Think about that process and how you would teach someone to do the same. 
-
-*	Spend 10 minutes guiding students through that process of where and how students should start the exercise. Direct students by giving them the skills to re create a web page from an image. 
-
----
- 
-
-![Exercise - Instructor](../../img/icons/instr_lab.png)
+*	When explaining classes and IDs it is important to tell students, when to use classes and when to use ids. The code along highlights this.
 
 
-##[Fashion Blog](starter_code)
+## [Floating Sections](http://codepen.io/nevan/pen/nHIEo)
 
-solution found [here](solution/fashion_blog_part1)
 
-####Time: 60 min
+###Time: 60 min
 
 | | |
 | ------------- |:-------------|
-| __Topics__ | html, css, divs, ids, classes | 
-| __Description__| Students use the fashion_blog.pdf to recreate the Fashion Blog website. |    
-| __Activity Type__| individual / pairs | 
+| __Topics__ | header, aside, footer, floats | 
+| __Description__| sandbox activity to demonstrate floats and structural elements. |   
+| __Activity Type__| code along | 
+  
 
+####Instructional Design Notes
 
+*	This is a barebones example so we can isolate floats and structural elements. 
 
-####Instructional Design Notes 
+*	Students will transfer what they learn here and apply it to the fashion blog. 
 
-*	Explain the exercise and make sure the task is clear to students. 
+*	To help students understand how this sandbox code along would apply to a real site, show them floating elements on a real web page. You will need to teach students how to identify content sections on a web page in order for them to be able to successfully apply floats during lab time.
 
-*	Go over the doctype, title and head tags.
-	
-*	Students should look up the article tag. Make that known at the beginning of lab time.
-
-*	__Bonus__: Ask students to implement a ```<footer>```
+*	This is also a good time to refer to the DOM tree.
 
 
 ---
+
+
 
 
 [![slides](../../img/icons/slides.png)](slides.md)
 
 click icon for slides.
+
