@@ -22,7 +22,7 @@
 | ------------- |:-------------|:-------------------|:----------------|
 | 60 min |Introduction to Web Development| [!Lesson Deck!](!GOOGLE DRIVE LINK!)| INSERT COMMENT HERE|
 | 10 min | Setting Up Your Environment | [!Lesson Deck!](GOOGLE DRIVE LINK)| INSERT COMMENT HERE.|
-| 60 min |HTML Tags & Using Sublime| [GA Press Release]()| Basic site to demonstrate html files and tags. This is another opportunity to show students how to use sublime text. This will make sure everyone is up to speed and ready to move forward.|
+| 60 min |HTML Tags & Using Sublime| [GA Press Release](solution/ga_press_release)| Basic site to demonstrate html files and tags. This is another opportunity to show students how to use sublime text. This will make sure everyone is up to speed and ready to move forward.|
 | 30 min | Code Along | [Cookies Recipe]()<br> [Resume]() | Students add tags to a Cookie recipe and start to "markup" their resume. |
 
 

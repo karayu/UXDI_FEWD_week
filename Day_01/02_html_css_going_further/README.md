@@ -1,4 +1,4 @@
-##Lesson 01 / Part 2 - CSS Basics
+##Week 7 - Lesson 02: HTML + CSS: Going Further
 
 
 ###Learning Objectives
