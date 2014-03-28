@@ -14,14 +14,15 @@ __By the end of the week, students should achieve the following learning objecti
 
 * Define and apply key front-end web development languages, like HTML, CSS, JavaScript.
 * Complete a number of projects, including a [responsive fashion blog](Day_03/08_workshop_responsive_fashion_blog/solution/fashion_blog_part2/index.html), [a simple marketing site](Day_02/06_workshop_html_and_advanced_css_lab/solution/simple_marketing_site/index.html), and a [complete responsive site from a design comp.](Day_04/10_workshop_startup_matchmaker/solution/startup_matchmaker_solution/index.html)
+* __Students are not expected to end the week as proficient front-end web developers. They are learning the bare minimum in order to continue their learning in a working environment.__
 
 ###Week 7 Lesson Schedule
 
 
-| [Day 01](Day_01) | [Day 02](Day_02) | [Day 03](Day_03) | [Day 04](Day_04) | Day 05 |
+| [Day 01](Day_01) | [Day 02](Day_02) | [Day 03](Day_03) | [Day 04](Day_04) | [Day 05](Day_05) |
 |:----:|:---------:|:---------------:|:---:|:----:|
-|[01 - Introduction to Web Development + HTML](Day_01/01_intro_to_web_dev_and_HTML)| [03 - Advanced CSS + Layout](Day_02/03_advanced_css_and_layout) | [07 - Responsive Basics](Day_03/07_responsive_basics)| [09 - Understanding Javascript](Day_04/09_javascript) | This is another. |
-|[02 - HTML + CSS: Going Further](Day_01/02_html_css_going_further)| [04 - Form Basics](Day_02/04_form_basics) | [08 - Workshop: Responsive Fashion Blog](Day_03/08_workshop_responsive_fashion_blog)|[10 - Workshop: Startup Matchmaker](Day_04/10_workshop_startup_matchmaker)
+|[01 - Introduction to Web Development + HTML](Day_01/01_intro_to_web_dev_and_HTML)| [03 - Advanced CSS + Layout](Day_02/03_advanced_css_and_layout) | [07 - Responsive Basics](Day_03/07_responsive_basics)| [09 - Understanding Javascript](Day_04/09_javascript) | [Recap & Q+A](Day_05/README.md) |
+|[02 - HTML + CSS: Going Further](Day_01/02_html_css_going_further)| [04 - Form Basics](Day_02/04_form_basics) | [08 - Workshop: Responsive Fashion Blog](Day_03/08_workshop_responsive_fashion_blog)|[10 - Workshop: Startup Matchmaker](Day_04/10_workshop_startup_matchmaker) | [Front-End Web Development Resources](Day_05/README.md)
 |--| [05 - Workshop: Fashion Blog](Day_02/05_workshop_fashion_blog)| -- | --
 |--| [06 - Workshop: HTML + Advanced CSS Lab (Simple Marketing Site)](Day_02/06_workshop_html_and_advanced_css_lab)| -- | --
 

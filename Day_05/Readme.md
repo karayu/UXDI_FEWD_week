@@ -1,11 +1,19 @@
 ![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
 
-###Week 8 - Forms
+##Week 7 - Day 05: Review, Q+A, and Resources
 
-This week students lean about FORMS. This week offers the possibility to take the course further. If your class is advanced you can discuss GET methods and local storage. 
+Students have just finished Front-End week! This day is an opportunity to wrap up any projects, ask the instructor questions, and explore additional front-end resources.
 
-Lesson 16 is less about forms and more about building in a To Do list app. This continues the theme of building in concert. Students build the entire app, from scratch after a class discussion about the features it should have. 
+###Morning Session
 
-![](15_form_basics/starter_code/application_form/screenshots/Screen Shot 2013-07-15 at 10.24.32 PM.png)
+The morning session should be used to debrief the lesson learned that week, and give students an opportunity to ask questions around the concepts they struggled with the most. 
 
-No image for the to do list app.
+If you wrap up Q+A early, students can use that time to work on portfolios.
+
+###On-Going Front-End Web Development Resources
+
+[JavaScript course on Code School](https://www.codeschool.com/paths/javascript)
+
+[HTML/CSS course on Code School](https://www.codeschool.com/paths/html-css)
+
+[How to Keep Up to Date on Front-End Technologies](http://uptodate.frontendrescue.org/)
