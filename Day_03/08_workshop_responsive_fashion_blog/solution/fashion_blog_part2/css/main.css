@@ -199,6 +199,12 @@ header nav ul:hover li {
 		display: block;
 		margin: 0 0 5px;
 	}
+
+header nav a:hover {
+	color: #ccc;
+	border-bottom-color: #BBB;
+}
+
 header nav ul:hover .current {
 		background: #404040 no-repeat 10px 7px;
 	}
