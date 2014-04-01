@@ -6,25 +6,8 @@ body {
 	line-height: 1.5;
 	background: #FFF;
 	color: #444;
-	width: 60em;
+	max-width: 40em;
 	border-left: 6px solid #DDD;
-}
-
-#main {
-	float: left;
-	width: 66.66667%;
-}
-
-#sidebar {
-	float: right;
-	width: 29%;
-	margin-top: 6em;
-	color: #888;
-}
-
-footer {
-	clear: both;
-	color: #BBB;
 }
 
 a {
@@ -68,12 +51,7 @@ h3 {
 	padding: 0;
 }
 
-p {
-	margin: 1.5em 0 0;
-	padding: 0;
-}
-p.more {
-	font-weight: bold;
+h4 {
 	text-align: right;
 }
 
@@ -84,40 +62,58 @@ img {
 }
 
 
-header h1 {
-	display: inline;
-	margin-right: .5em;
-}
-header h2 {
-	display: inline;
-	font-size: 1.5em;
-	margin-bottom: .5em;
-	color: #888;
+
+header nav { 
+	width: 100%;
+	position: relative;
+	margin: 20px 0;
 }
 
-header nav ul {
-	list-style: none;
-	margin: 0;
-	padding: 0;
+header h2 {
+	font-size: 1.5em;
+	margin-bottom: .5em;
 }
-header nav ul li {
-	float: left;
-	width: 16.66667%;
-	margin: 0;
-	padding: 0;
+
+footer {
+	clear:both;
+	color: #BBB;
 }
+
+
+nav ul { 
+	list-style-type: none; 
+	padding: 0px; 
+	margin: 0px;  
+}
+nav li { 
+	display: inline-block;
+	padding: 0;
+	list-style: none; 
+}
+
+
 header nav a {
-	display: block;
+	display: inline-block;
 	font-size: 1.25em;
-	color: white;
-	background: black;
-	margin-right: 1px;
-	padding: 15px 0;
-	text-align: center;
+	margin-right: .75em;
+	color: #DDD;
+	border-bottom: 2px solid #EEE;
 }
 header nav a:hover {
-	color: white;
-	background: #900;
+	color: black;
+	border-bottom-color: #BBB;
+}
+
+#main {
+	float: left;
+	width: 66.66667%;
+}
+
+#sidebar {
+	float: right;
+	width: 29%;
+	margin-top: 6em;
+	color: #888;
 }
 
 article {
@@ -125,7 +121,7 @@ article {
 	margin: 3em 0;
 	padding-bottom: 1.5em;
 }
-article p:first-of-type:first-letter {
+article p:first-letter {
 	float: left;
 	font-size: 6em;
 	line-height: 1;
@@ -133,14 +129,78 @@ article p:first-of-type:first-letter {
 	margin: -.1em .1em 0 -.1em;
 }
 
-.module {
-	border-bottom: 1px solid #DDD;
-	padding: 1.5em 0;
-}
-.module:last-of-type {
-	border: none;
+/*RESPONSIVE CSS*/
+@media screen and (max-width: 44em) {
+header nav {
+		position: relative;
+		min-height: 40px;
+	}	
+header nav ul {
+		width: 100%;
+		padding: 5px 0;
+		position: absolute;
+		top: 0;
+		left: 0;
+		background: #181818 no-repeat 10px 11px;
+	}
+header nav li {
+		display: none; /* hide all <li> items */
+		margin: 0;
+	}
+header nav .current {
+		display: block; /* show only current <li> item */
+	}
+header nav a {
+		display: block;
+		padding: 5px 5px 5px 32px;
+		text-align: left;
+		border-bottom: none;
+	}
+
+#sidebar {
+	clear: both;
+	float: left;
+	margin: 1em 0;
 }
 
-.ad img {
-	margin: auto;
+#main, #sidebar {
+	width: 100%;
+}
+
+#sidebar h4 {
+	text-align: left;
+}
+
+article {
+	margin: 1em 0;
+}
+
+footer nav ul {
+	list-style-type: none;
+	border-top: solid 1px #ccc;
+	padding-top: 1em;
+}
+
+footer nav ul li,
+footer p {
+	display: block;
+	text-align: center;
+}
+
+footer span {
+	display: none;
+}
+
+	/* on nav hover */
+header nav ul:hover {
+		background-image: none;
+	}
+header nav ul:hover li {
+		display: block;
+		margin: 0 0 5px;
+	}
+header nav ul:hover .current {
+		background: #404040 no-repeat 10px 7px;
+	}
+	
 }
