@@ -1,4 +1,3 @@
----
 
 ##Week 7 - Lesson 07 - Responsive Basics
 
