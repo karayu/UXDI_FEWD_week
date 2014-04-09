@@ -43,9 +43,9 @@ We have to know how the computer thinks to change how we think.
 
 ---
 
-##How Computers ‘Think’
+##How Computers Think
 
-The short answer is that they don’t think.
+The short answer is that they dont think.
 
 The slightly longer answer is that while computers don’t think, they act as if they do, by sequentially executing simple instructions.
 
