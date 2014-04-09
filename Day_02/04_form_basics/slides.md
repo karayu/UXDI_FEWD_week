@@ -1,4 +1,4 @@
-#Basic Forms
+#Forms & Inputs
 
 ###Instructor Name
 
@@ -174,5 +174,38 @@ Clicking the label text in either case places the focus in the input field (grea
 	1.	Opacity 0 on the element, set it’s height and width to define clickable area, set the height and width of it’s parent to be the same as the input (don’t forget position relative). Style the parent.
 	2.	Hide the element, style a corresponding label how you wanted the element to appear
 	3.	Try using pseudo elements and the selector :checked for no JS switching between checked and unchecked images used for styling
+
+---
+
+![GeneralAssemb.ly](../../img/icons/exercise_icon_md.png)
+##GA Application Form
+
+---
+
+
+##Optional: Fieldset/Legend
+
+```
+<fieldset>
+Wrapper for grouped form elements
+Ex: First, middle, last name text fields
+<legend>
+Goes inside fieldset
+Defines the grouping term for the fieldset
+<fieldset>
+	<legend>Your Name</legend>
+	<input type=“text” name=“first_name”>
+	<input type=“text” name=“middle_name”>
+	<input type=“text” name=“last_name”>
+</fieldset>
+```
+
+---
+
+##Optional: Validation
+
+*	Use library or simple if/else statements
+*	Parsley.js is an easy library to show off
+
 
 ---
