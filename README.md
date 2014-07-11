@@ -21,10 +21,10 @@ __By the end of the week, students should achieve the following learning objecti
 
 | [Day 01](Day_01) | [Day 02](Day_02) | [Day 03](Day_03) | [Day 04](Day_04) | [Day 05](Day_05) |
 |:----:|:---------:|:---------------:|:---:|:----:|
-|[01 - Introduction to Web Development + HTML](Day_01/01_intro_to_web_dev_and_HTML)| [03 - Advanced CSS + Layout](Day_02/03_advanced_css_and_layout) | [07 - Responsive Basics](Day_03/07_responsive_basics)| [09 - Understanding Javascript](Day_04/09_javascript) | [Recap & Q+A](Day_05) |
-|[02 - HTML + CSS: Going Further](Day_01/02_html_css_going_further)| [04 - Form Basics](Day_02/04_form_basics) | [08 - Workshop: Responsive Fashion Blog](Day_03/08_workshop_responsive_fashion_blog)|[10 - Workshop: Startup Matchmaker](Day_04/10_workshop_startup_matchmaker) | [Front-End Web Development Resources](Day_05)
-|--| [05 - Workshop: Fashion Blog](Day_02/05_workshop_fashion_blog)| -- | --
-|--| [06 - Workshop: HTML + Advanced CSS Lab (Simple Marketing Site)](Day_02/06_workshop_html_and_advanced_css_lab)| -- | --
+|[Introduction to Web Development](Day_01/01_intro_to_web_dev_and_HTML)| [HTML & CSS](Day_02) | [Advanced CSS](Day_03)| [Understanding Javascript](Day_04/09_javascript) | [Workshop: Building & Testing Case study Site (Example)](http://codepen.io/nevan/pen/d339cc09d81935274334b85c9f5ba2d4/) |
+|From Comps to Code: Annotating & Communicating with Developers| [Workshop: Wireframing your Case Study Site (Example)](http://codepen.io/nevan/pen/d339cc09d81935274334b85c9f5ba2d4/) | [Workshop: Styling your Personal Case Study Site (Example)](http://codepen.io/nevan/pen/d339cc09d81935274334b85c9f5ba2d4/)|[Workshop: Building & Testing your Case Study Site (Example)](http://codepen.io/nevan/pen/d339cc09d81935274334b85c9f5ba2d4/) | Presentations
+|--| -- | -- | --
+|--| -- | -- | --
 
 ###Preparing to Teach
  
