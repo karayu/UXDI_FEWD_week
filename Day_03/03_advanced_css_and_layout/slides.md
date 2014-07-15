@@ -1,8 +1,8 @@
 #Advanced CSS & Layout
 
-###Instructor Name
+###Kara Yu
 
-Instructors current role.
+MIT, Meteor
 
 ---
 
@@ -15,6 +15,12 @@ Instructors current role.
 *	Nested Selectors
 *	Getting Started
 *	Lab Time
+*	Review
+*	Classes Ids
+*	HTML5 Structural Elements
+*	Floats
+*	Lab Time
+
 
 ---
 
@@ -32,7 +38,9 @@ What do students need help with?
 
 
 The following are tags that come with the template: 
-See starter code for the template.![](../../img/unit_1/template_html.png)
+See starter code for the template.
+
+![](../../img/unit_1/template_html.png)
 
 
 ---
@@ -71,31 +79,6 @@ Every element in web design is a box.
 
 ---
 
-
-#Layout
-
-###Instructor Name
-
-Instructors current role.
-
----
-
-
-##Agenda
-
-*	Review
-*	Classes Ids
-*	HTML5 Structural Elements
-*	Floats
-*	Lab Time
-
----
-
-##Review
-
-What would you like to review?
-
----
 
 
 ##class & id
